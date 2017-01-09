@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 ## Deployment
 The automated process of deployment
 This is going to be a cool and complex product.
+
+## Testing
+Automated test and deployment is essential to the success of our project.
