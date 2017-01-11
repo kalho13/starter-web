@@ -13,3 +13,9 @@ This is going to be a cool and complex product.
 
 ## Testing
 Automated test and deployment is essential to the success of our project.
+
+## Focus 
+don't get ahead of the instructor
+
+##Direction
+Still modifying this same file over and over again.
