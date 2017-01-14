@@ -19,3 +19,5 @@ don't get ahead of the instructor
 
 ##Direction
 Still modifying this same file over and over again.
+##Copyright
+Git copyright training 2017
