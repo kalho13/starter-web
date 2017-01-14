@@ -5,7 +5,7 @@ Mastering the use of git for everyday action without requiring reference is the 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.  Now changing on 2 branches.
 
 ## Deployment
 The automated process of deployment
