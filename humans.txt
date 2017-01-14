@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Kal> -- <Man> -- <No Thanks>
 
 # THANKS
 
