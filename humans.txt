@@ -16,3 +16,4 @@
 
 # EDITS
 	A simple edit
+	another edit to test the post rebase log display
