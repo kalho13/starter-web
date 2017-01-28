@@ -19,6 +19,6 @@ Automated test and deployment is essential to the success of our project.
 don't get ahead of the instructor
 
 ##Direction
-Still modifying this same file over and over again.
+I have feet in my shoes and go where I choose
 ##Copyright
 Git copyright training 2017
