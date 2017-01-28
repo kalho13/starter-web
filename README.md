@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.
-Mastering the use of git for everyday action without requiring reference is the goal.
+To stash or not to stash
 
 ## Purpose
 
