@@ -15,4 +15,4 @@
     jQuery, Modernizr
 
 # EDITS
-	Used for demoing rebase with Remote instance
+	I am who I am and that's all I am
