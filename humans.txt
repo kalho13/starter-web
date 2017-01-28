@@ -15,5 +15,4 @@
     jQuery, Modernizr
 
 # EDITS
-	A simple edit
-	another edit to test the post rebase log display
+	Used for demoing rebase with Remote instance
